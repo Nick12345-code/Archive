@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Grass2_LOD1
+  m_Shader: {fileID: -6465566751694194690, guid: 32dc38454ddc6954c912feeec67683f8, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Boolean_ef3b682f27e84107aa4e6af5b4abd147: 0
+    - Vector1_279301d661e94213af0335e101629ce1: 0.4
+    - Vector1_2d19a742df1340a29731b1d40e8859a0: 1.2
+    - Vector1_637c4bb0fa46428d89a075c5ae2659e6: 0.4
+    m_Colors:
+    - Color_0c843ee33bce40f6a39a8bf6b5245a53: {r: 0.3254902, g: 0.7647059, b: 0.11764706, a: 0}
+    - Color_c4b1a76097224f1681b31f510b8d8b06: {r: 0.16862746, g: 0.5294118, b: 0.03137255, a: 0}
+    - Vector2_c65bd004a20b47d7ad66be3e88d2c698: {r: 1, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
